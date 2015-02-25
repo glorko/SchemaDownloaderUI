@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SchemaDownloader:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SchemaDownloader-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SchemaDownloader:war exploded" />
+    </root>
+  </artifact>
+</component>

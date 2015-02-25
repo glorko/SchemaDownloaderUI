@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: us.fatehi:schemacrawler:12.02.01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/us/fatehi/schemacrawler/12.02.01/schemacrawler-12.02.01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/us/fatehi/schemacrawler/12.02.01/schemacrawler-12.02.01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/us/fatehi/schemacrawler/12.02.01/schemacrawler-12.02.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
